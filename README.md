@@ -162,7 +162,7 @@ $ python3 threatguardian.py --scan /target --mode deep
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthkoli04&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF)](https://github.com/parthkoli04)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=parthkoli04&theme=matrix&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41)](https://github.com/parthkoli04)
+[![GitHub Streak](https://streak-stats.demolab.com?user=parthkoli04&theme=matrix&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://github.com/parthkoli04)
 
 </div>
 
