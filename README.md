@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Penetration+Tester+%7C+Security+Analyst;CEH+%7C+FortiGate+Administrator+v7.4;M.S.+Cybersecurity+%40+RMIT+Melbourne;HackTheBox+Operator+%7C+Parrot+OS+Native;ANZSCO+262112+%E2%80%94+Cyber+Security+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Penetration+Tester+%7C+Security+Analyst;CEH+%7C+FortiGate+Administrator+v7.4;M.S.+Cybersecurity+%40+RMIT+Melbourne;HackTheBox+Operator+%7C+Kali+OS+Native;ANZSCO+262112+%E2%80%94+Cyber+Security+Specialist" alt="Typing SVG" />
 
 <br/>
 
