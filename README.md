@@ -16,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-parthkoli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parthkoli)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
 [![Email](https://img.shields.io/badge/Email-koliparth2004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koliparth2004@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View%20Here-00C853?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1w4DFNFiTNmiZJdwmbZQeFEZPYuD38M-G/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View%20Here-00C853?style=for-the-badge&logo=googledrive&logoColor=white)](https://docs.google.com/document/d/1IU6PjjBp_KwHkzWRKS0PhHY890dC3c4DZezPUKDMbEo/edit?usp=sharing)
 
 </div>
 
