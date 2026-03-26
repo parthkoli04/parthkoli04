@@ -100,7 +100,7 @@ $ python3 threatguardian.py --scan /target --mode deep
 ## `$ cat /experience/employment_history.log`
 
 ```log
-[2023] Networking Intern — BARC (Bhabha Atomic Research Centre)
+[2023] Project Intern — BARC (Bhabha Atomic Research Centre)
        Government of India, Mumbai
        > Network infrastructure support in a high-security federal environment
        > Hands-on exposure to operational security in critical infrastructure
