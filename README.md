@@ -103,6 +103,17 @@ $ python3 threatguardian.py --scan ./samples --mode signature
 
 ---
 
+## `$ cat experience.log`
+
+```log
+[Nov–Dec 2023] Project Intern — Bhabha Atomic Research Centre (BARC)
+               Government of India, Mumbai
+               > Network infrastructure support in a high-security federal environment
+               > Hands-on exposure to enterprise networking and operational security
+```
+
+---
+
 ## `$ cat tech_stack.conf`
 
 <div align="center">
